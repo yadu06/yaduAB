@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/yadu06/yaduAB/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-yadunandan friends
+title: yadunandan friends
